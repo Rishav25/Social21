@@ -2,12 +2,11 @@ import React from 'react';
 import { Card, CardActions, CardContent, CardMedia, Button , Typography} from '@material-ui/core';
 import ThumbUpAltIcon from '@material-ui/icons/ThumbUpAlt';
 import DeleteIcon from '@material-ui/icons/Delete';
-import moment from 'moment';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
 import { useDispatch } from 'react-redux';
 
 import useStyles from './styles.js';
-import { mergeClasses } from '@material-ui/styles';
+
 import { deletePost, likePost } from '../../../actions/posts';
 
 const Post = ({post , setCurrentId}) => {
@@ -19,7 +18,7 @@ const Post = ({post , setCurrentId}) => {
             <CardMedia className={design.media} image={post.selectedFile} title={post.title}/>
             <div className ={design.overlay}>
                 <Typography className={design.text} variant="h6">{post.creator}</Typography>
-                <Typography className={design.text}variant="body2">{moment(post.createdAt).fromNow()}</Typography>
+                <Typography className={design.text}variant="body2"></Typography>
             </div>
             <div className={design.overlay2}>
                 <Button style={{color: 'white'}} size="small" 
