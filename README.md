@@ -27,3 +27,7 @@ There are 5 main actions in this application
  4. Adding an action with respect to the api in **actions on client side**
  5. Adding the reduced version of this action in **reducers on client side**
  6. Using these actions on client side components
+ 
+ <br>
+ 
+ <sub><sup>Problem faced : Mongoose Schema timestamp not working, so I had to remove the timestamp of all posts </sup></sub>
