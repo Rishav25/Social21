@@ -1,11 +1,18 @@
 # Social 21
 
 ## Website : social21-by-rishav.netlify.app
+## Server :  https://social21-api.onrender.com/
+
+
+ ## Demo
+ ![ezgif com-video-to-gif(3)](https://user-images.githubusercontent.com/75539207/221266167-a061e9ed-9ad2-4bd8-a9d7-f5baf9445c1d.gif)
+ 
+
+ ![ezgif com-video-to-gif(4)](https://user-images.githubusercontent.com/75539207/221266794-e0f5f3af-c61e-4a44-9e9a-cc910e464102.gif)
 
 * This is a full stack application made using MERN concepts
 * Used MongoDB atlas for database and redux to dispatch actions
 * Created fully responsive frontend using React and materialUI
-* Server side deployed using Heroku : https://social21-api.onrender.com/
 * Client side deployed using Netlify
 
 <br/>
@@ -29,10 +36,4 @@ There are 5 main actions in this application
  6. Using these actions on client side components
  
  <br>
- 
- ## Demo
- ![ezgif com-video-to-gif(3)](https://user-images.githubusercontent.com/75539207/221266167-a061e9ed-9ad2-4bd8-a9d7-f5baf9445c1d.gif)
- 
-
- ![ezgif com-video-to-gif(4)](https://user-images.githubusercontent.com/75539207/221266794-e0f5f3af-c61e-4a44-9e9a-cc910e464102.gif)
 
