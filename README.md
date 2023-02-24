@@ -1,6 +1,6 @@
 # Social 21
 
-## Website : social21-by-rishav.netlify.app
+## Website : https://social21-by-rishav.netlify.app
 ## Server :  https://social21-api.onrender.com/
 
 
