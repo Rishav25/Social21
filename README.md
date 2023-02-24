@@ -36,5 +36,3 @@ There are 5 main actions in this application
 
  ![ezgif com-video-to-gif(4)](https://user-images.githubusercontent.com/75539207/221266794-e0f5f3af-c61e-4a44-9e9a-cc910e464102.gif)
 
- 
- <sub><sup>Problem faced : Mongoose Schema timestamp not working, so I had to remove the timestamp of all posts </sup></sub>
