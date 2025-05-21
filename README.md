@@ -1,7 +1,7 @@
 # Social 21
 
 ## Website : https://social21-by-rishav.netlify.app
-## Server :  https://social21-api.onrender.com/
+## Server :  https://social21-api.onrender.com/ (Launch once before opening the application)
 
 
  ## Demo
